@@ -1,9 +1,9 @@
-.. BeerOracle documentation master file, created by
+.. Hold my beer - type predictor documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-BeerOracle documentation!
+Hold my beer - type predictor documentation!
 ==============================================
 
 Contents:

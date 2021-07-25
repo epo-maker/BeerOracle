@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# BeerOracle documentation build configuration file, created by
+# Hold my beer - type predictor documentation build configuration file, created by
 # sphinx-quickstart.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -41,7 +41,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'BeerOracle'
+project = u'Hold my beer - type predictor'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -185,7 +185,7 @@ latex_elements = {
 latex_documents = [
     ('index',
      'BeerOracle.tex',
-     u'BeerOracle Documentation',
+     u'Hold my beer - type predictor Documentation',
      u"Your name (or your organization/company/team)", 'manual'),
 ]
 
@@ -215,7 +215,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'BeerOracle', u'BeerOracle Documentation',
+    ('index', 'BeerOracle', u'Hold my beer - type predictor Documentation',
      [u"Your name (or your organization/company/team)"], 1)
 ]
 
@@ -229,9 +229,9 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    ('index', 'BeerOracle', u'BeerOracle Documentation',
-     u"Your name (or your organization/company/team)", 'BeerOracle',
-     'Model to predict the type of beer', 'Miscellaneous'),
+    ('index', 'BeerOracle', u'Hold my beer - type predictor Documentation',
+     u"Your name (or your organization/company/team)", 'Hold my beer - type predictor',
+     '[A[B[BPredicts the type of beer based on aroma, appearance, taste, and palate', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.

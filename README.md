@@ -1,7 +1,22 @@
-BeerOracle
+Hold my beer - type predictor
 ==============================
 
-Model to predict the type of beer
+A neural network model that predicts the type of beer based on aroma, appearance, taste, and palate
+
+The expected parameters are:
+
+   i. review_aroma: the user's score of a beer's aroma
+  ii. review_appearance: the user's score of a beer's appearance
+ iii. review_palate: the user's score of a beer's palate
+  iv. review_taste: the user's score of a beer's taste
+   v. beer_abv: the alcohol volume of the beer
+  vi. brewery_id: the brewery id on BeerAdvocate
+
+How to obtain predictions:
+
+ Single predictions - available via beer/type
+ Multiple predictions - available via beers/type
+ 
 
 Project Organization
 ------------

@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='Model to predict the type of beer',
+    description='[A[B[BPredicts the type of beer based on aroma, appearance, taste, and palate',
     author='Your name (or your organization/company/team)',
     license='MIT',
 )
